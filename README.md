@@ -135,6 +135,7 @@ minify:
 - [Test Page Speed](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 - [Minifier et nettoyer CSS JS HTML ..](https://www.10bestdesign.com/dirtymarkup/)
 - [Website Speed](https://tools.pingdom.com/)
+- [GTMetrix, (la même chose que la lighthouse mais en plus sévère)](https://gtmetrix.com/)
 - [Le Meilleur outil !](https://web.dev/measure/)
 
 *Design réactif*
@@ -261,6 +262,7 @@ env: production
 - [Image Magick](https://imagemagick.org/index.php)
 - [Free Photos](https://unsplash.com/)
 - [Verificateur de lien](https://validator.w3.org/checklink)
+- [Google Analytics check](http://www.gachecker.com/)
 
 *Rédaction*
 
@@ -327,6 +329,12 @@ alt="description de l'image
 ```
 - alt pour une vidéo
 
+Pagination bouton ou liens ajoutez :
+```
+ rel="next"
+ OU
+ rel="prev"
+ ```
 *Outils*
 
 - [HTML / XHTML / XML Validator](https://validator.w3.org/)
@@ -346,6 +354,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [A free web scraper](https://www.parsehub.com/)
 - [awesome-static-generators](https://github.com/phamap/awesome-static-generators)
 - [awesome-hugo](https://www.awesome-hugo.dev/)
+- [Larges listes d'outils gratuit](https://www.internetmarketingninjas.com/tools/free-tools/category/free-seo-tools)
 
 *Thème pour documentation*
 - [Docsy](https://docsy.dev)
