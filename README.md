@@ -2,7 +2,7 @@
 
 ## My Awesome Hugo Book
 
-- Français (en construction)
+- [Français](#objectif-et-besoin) (en construction)
 - [Anglais](#english) (french before)
 
 <p align="center">
