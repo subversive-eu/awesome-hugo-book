@@ -24,14 +24,60 @@
 
 Table des matières | 
 ------------ | 
-[Performance](#performance) | 
-[Architecture](#architecture) | 
-[Sécurité](#sécurité) | 
+[Introduction](#introduction) | ι
+[Performance](#performance) | ι
+[Architecture](#architecture) | ι
+[Sécurité](#sécurité) | ι
 [Contenu](#contenu) | ι
-[Meta Data](#meta-data) | 
+[Meta Data](#meta-data) | ι
 [Ressources](#ressources) | ι
 
 ***
+
+###  Introduction
+
+Un bon site Web répondra à la question : que viennent chercher les gens sur mon site Web ? -> Votre site internet a besoin d’être documenté sur un sujet précis.
+
+Si vous devez aborder plus de deux sujets vraiment différents, préférez utiliser un sous-domaine pour chaque sujet comme automobile vs cuisine. automobile.example.com vs cuisine.example.com
+
+Un type de recherche une page, reste l’idéal.
+
+**Fonctionnement de la recherche Google**
+
+Pour faire explorer vos pages par googlebot, utiliser un sitemap.xml : example.com/sitemap.xml
+
+Ne pas hésiter à envoyer une demande d’exploration de pages individuelles via la GoogleSearchConsole.
+
+Vos chemins d’URL doivent être simples, intelligibles et logiques pour vos pages.
+
+Googlebot va explorer votre site en fonction du fichier robots.txt, dans la racine de votre site example.com/robots.txt.
+
+Vous pourrez interdire l’accès du bot a certaines pages ou dossier délicat.
+
+Identifiez votre page canonique et les autres pages.
+
+Assurer vous que googlebot a accés aux ressources.
+
+J’ai fait un article sur [le fonctionnement de la recherche](https://subversive-eu.github.io/awesome-hugo-book//blog/fonctionnement-recherche.md).
+
+**La base du SEO**
+
+Google regarde la perfomance de votre site, il observe vos metas données ainsi que votre contenu.
+
+Votre Architecture se doit d’être simple est logique. Vous n’oublierez pas la sécurité de votre site.
+
+**Garder le cap**
+
+Google mais à jour régulièrement ses consignes aux developpers, vous vous devrez de ne rien louper en lisant ces blogs :
+Google For Dev #
+
+    Dev
+    Webmaster [FR]
+    Webmaster
+
+De plus il vous faudra une base de ressources displonibles pour gagner du temps dans votre travail.
+
+Le plus important est d’avoir un objectif quantifiable et mesurable, le reste est bido
 
 ### Performance
 
@@ -161,6 +207,7 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 - [Markdown Syntax Guide](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/)
 - [Evernote-powered statically-generated blogs and websites](https://github.com/zzamboni/enwrite)
 - [Mon guide /outils Markdown](https://subversive.eu/articles/markdown-syntax-how-to-use-figure-with-html-css-and-tabs.html)
+- [Syntaxe basique MArkdown](https://www.markdownguide.org/basic-syntax/)
 
 *Emoji* dans le fichier config.yml
 
@@ -318,6 +365,6 @@ going to deploy using netlify. (did)
 
 PS: [hugo release v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0).
 
-PS2: need a better readme.md to share project.
+PS2: need a better readme.md to share project. <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 PS3: start in french going to english ?
