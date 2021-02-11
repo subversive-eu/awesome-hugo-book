@@ -1,9 +1,5 @@
 ---
-author: "My Awesome Hugo Book"
-date: 2019-11-15
-linktitle: Fonctionnement de la recherche
-title: Fonctionnement de la recherche
-weight: 10
+title: "Fonctionnement de la recherche"
 ---
 
 Le fonctionnement de la recherche se divise en plusieurs phases elles mêmes décomposées. L’objectif étant de spécifié chaque section afin d’optimiser le référencement.
