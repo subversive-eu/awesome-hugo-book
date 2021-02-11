@@ -5,14 +5,18 @@
 - [Français](#objectif-et-besoin) (en construction)
 - [Anglais](#english) (french before)
 
-<p align="center">
-  <kbd><img style=".circle-image {
+<p align="center" style="  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;">
+  <kbd><img style="
   width: 100%;
   height: 100%;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
-}" src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
+" src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
 
 ### Objectif et Besoin
