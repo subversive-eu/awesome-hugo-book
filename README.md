@@ -195,14 +195,23 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 
 *SEO*
 
-- [Plus d’info à propos de Schema](https://schema.org/)
-- [Données structurées Listes](https://developers.google.com/search/docs/guides/search-gallery)
-- [JSON-LD données](https://github.com/JayHoltslander/Structured-Data-JSON-LD)
 - [OpenGraph Protocol](https://ogp.me/)
-- [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
-- [Debug by Iframely](http://debug.iframely.com/)
-- [mon seo](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
-- [Valider le protocole Opengraph](https://www.opengraph.xyz/)
+  - [Valider le protocole Opengraph](https://www.opengraph.xyz/)
+- [Schema](https://schema.org/)
+  - [Données structurées Listes](https://developers.google.com/search/docs/guides/search-gallery)
+  - [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
+  - [JSON-LD données](https://github.com/JayHoltslander/Structured-Data-JSON-LD)
+- [Twitter_Cards]
+
+**[Meilleur Outil !](http://debug.iframely.com/)**
+
+- [Templates que j'utilise](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
+- [Les déployer depuis le partial head (dernières lignes)](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
+PS: Ne pas oublier dans config.yml :
+```
+params:
+  env: production
+```
 
 *RSS*
 
