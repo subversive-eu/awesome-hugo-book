@@ -31,17 +31,17 @@
 
 - [Hugo version v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0)
 
-### Table des matières
 
-- [Performance](#performance)
-- [Architecture](#architecture)
-- [Sécurité](#sécurité)
-- [Contenu](#contenu)
--- [SEO](#seo)
--- [Shortcodes](#shortcodes)
--- [Other Tools](#other-tools)
-- [Meta Data](#meta-data)
-- [Ressources](#ressources)
+Table des matières | 
+------------ | 
+[Performance](#performance) | 
+[Architecture](#architecture) | 
+[Sécurité](#sécurité) | 
+[Contenu](#contenu) | ι
+[Meta Data](#meta-data) | 
+[Ressources](#ressources) | ι
+
+***
 
 ### Performance
 
