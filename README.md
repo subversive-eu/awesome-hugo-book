@@ -216,13 +216,17 @@ La personne ou le robot qui lit votre url doit comprendre ce dont la page parle.
 Très important pour le handicap, considérez que le robot est un handicapé qui ne voit pas mais se faire le contenu de la page. Pour une personne handicapée c’est pareil, elle a un robot qui lui lit les attributs, ce qui lui permet d’évoluer n’importe où, à condition que votre site en ait.
 
 - title pour un lien ex:
-``` <a Title="{{ .Name }}" href="{{ .URL | absLangURL }}"> {{ .Name }} </a>```
+```
+<a Title="{{ .Name }}" href="{{ .URL | absLangURL }}"> {{ .Name }} </a>
+```
 - name pour un bouton ex:
 ```
 <button name="Description du bouton" ></button>
 ```
 - alt pour une image ex:
-``` alt="description de l'image ```
+```
+alt="description de l'image
+```
 - alt pour une vidéo
 
 #### Outils
@@ -257,7 +261,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Material Design](https://material.io/)
 - [Material Design Lite](https://getmdl.io/)
 - [Syna](https://about.okkur.org/syna/)
-- [Normalize.css | CSS reset](https://necolas.github.io/normalize.css/)
+- [Normalizecss | CSS reset](https://necolas.github.io/normalize.css/)
 - [Animate.css](https://animate.style/)
 - [Primer](https://primer.style/)
 - [Clarity Design System](https://clarity.design/)
