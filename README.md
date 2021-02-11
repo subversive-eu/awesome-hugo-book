@@ -6,7 +6,13 @@
 - [Anglais](#english) (french before)
 
 <p align="center">
-  <kbd><img src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
+  <kbd><img style=".circle-image {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}" src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
 
 ### Objectif et Besoin
