@@ -25,18 +25,16 @@
 
 - Juste une page avec des favoris disponibles partout facile à interpréter.
 
-- [Hugo version v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0)
-
 
 Table des matières | 
 ------------ | 
-[Introduction](#introduction) | ι
-[Performance](#performance) | ι
-[Architecture](#architecture) | ι
-[Sécurité](#sécurité) | ι
-[Contenu](#contenu) | ι
-[Meta Data](#meta-data) | ι
-[Ressources](#ressources) | ι
+[Introduction](#introduction) |
+[Performance](#performance) |
+[Architecture](#architecture) |
+[Sécurité](#sécurité) |
+[Contenu](#contenu) |
+[Meta Data](#meta-data) |
+[Ressources](#ressources) |
 
 ***
 
@@ -77,13 +75,13 @@ Votre Architecture se doit d’être simple est logique. Vous n’oublierez pas 
 Google mais à jour régulièrement ses consignes aux developpers, vous vous devrez de ne rien louper en lisant ces blogs :
 Google For Dev #
 
-    Dev
-    Webmaster [FR]
-    Webmaster
+- [Dev](https://developers.googleblog.com/)
+- [Webmaster [FR]](https://webmaster-fr.googleblog.com/)
+- [Webmaster[(https://webmasters.googleblog.com/)
 
 De plus il vous faudra une base de ressources displonibles pour gagner du temps dans votre travail.
 
-Le plus important est d’avoir un objectif quantifiable et mesurable, le reste est bido
+Le plus important est d’avoir un objectif quantifiable et mesurable, le reste est bidon.
 
 ### Performance
 
