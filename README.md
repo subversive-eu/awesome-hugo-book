@@ -140,6 +140,7 @@ minify:
 - [affiche le site en responsive multi plateforme](https://www.responsinator.com/)
 - [Google Mobile friendly ?](https://search.google.com/test/mobile-friendly?)
 - [Responsive-Test](https://0xfederico.github.io/test-responsive-website/)
+- [Google Chrome lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 *Image*
 
