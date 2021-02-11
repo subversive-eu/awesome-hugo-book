@@ -56,14 +56,14 @@ Table des matières |
 - Evitez les redirections
 - Détestez les icônes
 
-##### Tools
+##### Outils
 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Vitesse de la page](https://tools.pingdom.com/)
 - [Minifier votre css](http://minifycode.com/)
 - [Test Page Speed](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 
-##### Responsive design
+##### Design réactif
 
 - [affiche le site en responsive multi plateforme](https://www.responsinator.com/)
 - [Google Mobile friendly ?](https://search.google.com/test/mobile-friendly?)
@@ -90,7 +90,7 @@ Demandez vous ce qu’aime les gens, ce que viennent chercher les gens sur votre
 - Un rendu en recherche impeccable cf schema.org
 - Le sitemap est très important, il est l’index du robot, il regroupe toutes les pages.
 
-##### Tools
+##### Outils
 
 - [Analyse l’architecture pour une page](https://www.siteliner.com/)
 - [Analyse Générale de l’architecture du site](https://neilpatel.com/)
@@ -111,7 +111,7 @@ Appréciez le protocole www.votredomaine.com.
 
 gethyas.com
 
-##### Tools
+##### Outils
 
 - [Webpagetest](https://www.webpagetest.org/)
 - [Mozilla Observatoire](https://observatory.mozilla.org/)
@@ -139,7 +139,7 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 - Préférez du texte qui décrit le lien, simple mais efficace
 - Votre contenu doit être **unique**
 
-#### SEO
+*SEO*
 
 - [Plus d’info à propos de Schema](https://schema.org/)
 - [Données structurées Listes](https://developers.google.com/search/docs/guides/search-gallery)
@@ -148,41 +148,38 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 - [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
 - [Debug by Iframely](http://debug.iframely.com/)
 - [mon seo](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
--     Testing your Opengraph
+- [Valider le protocole Opengraph](https://www.opengraph.xyz/)
 
-RSS:
+*RSS*
 
 - [W3 validator](https://validator.w3.org/feed/)
 - [Podba](https://podba.se/validate/)
 
-#### Shortcodes
+*Shortcodes*
 
 - [Hugo shortcodes par parsiya](https://github.com/parsiya/Hugo-Shortcodes)
 - [les miens](https://github.com/subversive-eu/site/tree/master/layouts/shortcodes)
 
-#### Other Tools
+*Autres Outils*
 
 - [Convertisseur](https://convertio.co/)
 - [Image Magick](https://imagemagick.org/index.php)
+- [Free Photos](https://unsplash.com/)
 
-Rédaction
+*Rédaction*
 
 - [Markdown Syntax Guide](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/)
 - [Evernote-powered statically-generated blogs and websites](https://github.com/zzamboni/enwrite)
 - [Mon guide /outils Markdown](https://subversive.eu/articles/markdown-syntax-how-to-use-figure-with-html-css-and-tabs.html)
 
-Enable Emoji in config.yml :
+*Emoji* dans le fichier config.yml
 
 ```enableEmoji: true``` 💙
 
 - [Emoji list](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [Explain Emoji](https://hugoloveit.com/emoji-support/)
 
-Images
-
-- [Free Photos](https://unsplash.com/)
-
-Commentaires
+*Commentaires*
 
 - [Isso | Disqus alternative](https://posativ.org/isso/)
 - [Visual Captcha](https://visualcaptcha.net/)
@@ -233,7 +230,7 @@ alt="description de l'image
 ```
 - alt pour une vidéo
 
-#### Outils
+*Outils*
 
 - [HTML / XHTML / XML Validator](https://validator.w3.org/)
 - [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
@@ -265,7 +262,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Material Design](https://material.io/)
 - [Material Design Lite](https://getmdl.io/)
 - [Syna](https://about.okkur.org/syna/)
-- [Normalizecss | CSS reset](https://necolas.github.io/normalize.css/)
+- [Normalize.css CSS reset](https://necolas.github.io/normalize.css/)
 - [Animate.css](https://animate.style/)
 - [Primer](https://primer.style/)
 - [Clarity Design System](https://clarity.design/)
@@ -274,7 +271,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [EditorJs ](https://editorjs.io/)
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 
-*Icons*
+*Icones*
 
 - [Feathericons](https://feathericons.com/)
 - [Fontawesome](https://fontawesome.com/)
@@ -282,7 +279,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Simpleicons](https://simpleicons.org/)
 - [Octicons](https://primer.style/octicons/)
 
-[*This wundefull photo*](https://subversive-eu.github.io/awesome-hugo-book/media/winter-photo.webp)
+[*Cette merveilleuse photo*](https://subversive-eu.github.io/awesome-hugo-book/media/winter-photo.webp)
 
 
 
