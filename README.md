@@ -35,6 +35,7 @@ Table des matières |
 [Contenu](#contenu) |
 [Meta Data](#meta-data) |
 [Ressources](#ressources) |
+[Audit](#audit) |
 
 ***
 
@@ -62,7 +63,7 @@ Identifiez votre page canonique et les autres pages.
 
 Assurer vous que googlebot a accés aux ressources.
 
-J’ai fait un article sur [le fonctionnement de la recherche](https://subversive-eu.github.io/awesome-hugo-book//blog/fonctionnement-recherche.md).
+[ Un article sur le fonctionnement de la recherche]().
 
 **La base du SEO**
 
@@ -102,6 +103,7 @@ Le plus important est d’avoir un objectif quantifiable et mesurable, le reste 
 - [Vitesse de la page](https://tools.pingdom.com/)
 - [Minifier votre css](http://minifycode.com/)
 - [Test Page Speed](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
+- [Le Meilleur outil !](https://web.dev/measure/)
 
 *Design réactif*
 
@@ -343,6 +345,66 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [https://alyze.com/](https://alyze.com/)
 - [webpagetest](https://www.webpagetest.org/)  
 - [Google text-enrichis tools tester](https://search.google.com/test/rich-results)
+
+### Audit
+
+Faire un audit est assez long, car il faut être précis. Vous ne devez pas oublier de vous fixer un objectif mesurable dans le temps et quantifiable. A partir de là, vous êtes dans la bonne direction.
+
+Tois procédures en fonction de votre point de départ.
+
+Plus vous êtes en difficulté plus la procédure est simple et courte surtout. Autant dire que plus vous avancerez, plus ce sera long et difficile.
+
+A cela, vous ne devrez pas oublier l’architecture de votre site !
+
+**Procédure 1**
+
+Celle de Google.
+
+- Le site est-il visible sur internet ? site:example.com
+- Votre contenu est unique ?
+- Votre commerce est visible sur google.com/business
+- Votre site s’adapte au mobile ? <g.co/friendly>
+- La connexion a votre site est sécurisée ? https ?
+
+Avant de passer à la suite, vous devez intégrer celle-ci entièrement.
+
+**Procédure 2**
+
+Cette vérification se divise et deux sous-procédures. La 2.1 vous correspondra le plus.
+
+*Procédure 2.1*
+
+Celle du propriétaire (vous).
+
+- Avez-vous un objectif ?
+- Quel est votre but ?
+- Comment le mesurer ?
+- Votre url correspond-il a votre sujet ?
+- Est-il trop complexe ?
+
+Maintenant vérifions la base. Comment les robots voient votre site. Car votre site a un objectif, s’afficher sur les moteurs de recherche.
+
+*Procédure 2.2*
+
+Tous les outils se trouve ici est là sur la page.
+
+- Le sitemap fonctionne ?
+- Le robots.txt est ouvert ?
+- Quels sont vos perfs ?
+- Votre site est-il responsive ?
+
+En gros les deux derniers points sont trés important, je ne connais pas le vocabulaire google attribué. Mais vous devez comprendre que même si votre site s’adapte aux mobiles, s’il réponds mal au changement de taille d’écran alors il ne sera pas mis en avant. Il doit être fluide dans n’importe qu’elle circonstance. La majorité des gens surfent sur mobile mais d’autres sont sur de grands écrans.
+
+**Procédure 3**
+
+Celle publique et pointilleuse.
+
+- [Public OPQuast](https://checklists.opquast.com/fr/)
+- [Web-Quality-Assurance](https://checklists.opquast.com/en/web-quality-assurance/)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+- [Scan tout le site](https://webhint.io/scanner/)
+
 
 
 
