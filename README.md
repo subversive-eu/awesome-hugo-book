@@ -28,8 +28,10 @@
 - [Sécurité](#sécurité)
 - [Contenu](#contenu)
 -- [SEO](#seo)
--- [RSS](#rss)
-
+-- [Shortcodes](#shortcodes)
+-- [Other Tools](#other-tools)
+- [Meta Data](#meta-data)
+- [Ressources](#ressources)
 
 ### Performance
 
@@ -84,6 +86,7 @@ Demandez vous ce qu’aime les gens, ce que viennent chercher les gens sur votre
 - [Analyse Générale de l’architecture du site](https://neilpatel.com/)
 - [Logiciel architecture des liens](https://www.screamingfrog.co.uk/seo-spider/)
 - [SiteMap validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
+- [Sitemap pour image](https://support.google.com/webmasters/answer/178636)
 
 ### Sécurité
 
@@ -134,12 +137,138 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 - [OpenGraph Protocol](https://ogp.me/)
 - [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
 - [Debug by Iframely](http://debug.iframely.com/)
+- [mon seo](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
+-     Testing your Opengraph
 
-#### RSS
+RSS:
 
 - [W3 validator](https://validator.w3.org/feed/)
 - [Podba](https://podba.se/validate/)
 
+#### Shortcodes
+
+- [Hugo shortcodes par parsiya](https://github.com/parsiya/Hugo-Shortcodes)
+- [les miens](https://github.com/subversive-eu/site/tree/master/layouts/shortcodes)
+
+#### Other Tools
+
+- [Convertisseur](https://convertio.co/)
+- [Image Magick](https://imagemagick.org/index.php)
+
+Rédaction
+
+- [Markdown Syntax Guide](https://sourceforge.net/p/hugo-generator/wiki/markdown_syntax/)
+- [Evernote-powered statically-generated blogs and websites](https://github.com/zzamboni/enwrite)
+- [Mon guide /outils Markdown](https://subversive.eu/articles/markdown-syntax-how-to-use-figure-with-html-css-and-tabs.html)
+
+Enable Emoji in config.yml :
+
+```enableEmoji: true``` 💙
+
+- [Emoji list](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Explain Emoji](https://hugoloveit.com/emoji-support/)
+
+Images
+
+- [Free Photos](https://unsplash.com/)
+
+Commentaires
+
+- [Isso | Disqus alternative](https://posativ.org/isso/)
+- [Visual Captcha](https://visualcaptcha.net/)
+- [Invisible-recaptcha-validator | self-hosted](https://github.com/andrewrmn/invisible-recaptcha-validator)
+- [Staticman!](https://staticman.net/)
+- [Staticman tuto fr 2021](https://subversive.eu/articles/ecrire-des-commentaires-sur-un-site-statique-hugo-avec-staticman-et-heroku.html)
+
+### Meta Data
+
+Le balisage meta reste important tant qu’il est pratique et qu’il réponds à la demande des bots.
+
+La demande des bots, dépends de la demande des gens. Si vous comprenez ce que les gens cherchent et aiment faire sur internet alors vous comprendrez cette liste.
+
+La personne ou le robot qui lit votre url doit comprendre ce dont la page parle.
+
+*Balise Head de votre page*
+
+- Gérer le Opengraph protocol complet
+- Gérer le Twitter Cards protocol complet
+- Gérer le Structured Data protocol complet
+- Gérer le sitemap + sitemap image
+- Acceptez robots.txt noindex
+- Titre
+- Une hreflang
+- keywords /peu utile/
+- RSS
+- Canonical
+- Description
+- Autheur
+- Vos ressources
+- Votre URL
+
+*Attributs*
+
+Très important pour le handicap, considérez que le robot est un handicapé qui ne voit pas mais se faire le contenu de la page. Pour une personne handicapée c’est pareil, elle a un robot qui lui lit les attributs, ce qui lui permet d’évoluer n’importe où, à condition que votre site en ait.
+
+- title pour un lien ex:
+``` <a Title="{{ .Name }}" href="{{ .URL | absLangURL }}"> {{ .Name }} </a>```
+- name pour un bouton ex:
+```
+<button name="Description du bouton" ></button>
+```
+- alt pour une image ex:
+``` alt="description de l'image ```
+- alt pour une vidéo
+
+#### Outils
+
+- [HTML / XHTML / XML Validator](https://validator.w3.org/)
+- [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
+- [HTML Ressources](https://htmlhead.dev/)
+- [Tuto hugo tags](https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/)
+
+### Ressources
+
+Tout ce qui ne rentre pas dans les autres catégories.
+
+- [Danstools](https://www.danstools.com/)
+- [HUGO BEST PRACTICES](https://github.com/spech66/hugo-best-practices)
+- [AWESOME INCLUSIVE](https://github.com/sindresorhus/awesome)
+- [Lipi static blog generator](https://sohanchy.com/Lipi/)
+- [A free web scraper](https://www.parsehub.com/)
+- [awesome-static-generators](https://github.com/phamap/awesome-static-generators)
+- [awesome-hugo](https://www.awesome-hugo.dev/)
+
+*Thème pour documentation*
+- [Docsy](https://docsy.dev)
+- [Docuapi](https://docuapi.netlify.app)
+- [Learn](https://learn.netlify.app)
+- [Hyas](https://gethyas.com)
+- [Zdoc](https://zzo-docs.vercel.app/)
+- [Compose](https://docs.neuralvibes.com/)
+
+*Design kit*
+
+- [Material Design](https://material.io/)
+- [Material Design Lite](https://getmdl.io/)
+- [Syna](https://about.okkur.org/syna/)
+- [Normalize.css | CSS reset](https://necolas.github.io/normalize.css/)
+- [Animate.css](https://animate.style/)
+- [Primer](https://primer.style/)
+- [Clarity Design System](https://clarity.design/)
+- [jPopup](https://www.rvdizajn.com/jpopup/)
+- [Google-Fonts-Awesome](https://google-webfonts-helper.herokuapp.com/fonts)
+- [EditorJs ](https://editorjs.io/)
+- [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+
+*Icons*
+
+- [Feathericons](https://feathericons.com/)
+- [Fontawesome](https://fontawesome.com/)
+- [IcoMoon](https://icomoon.io/)
+- [Simpleicons](https://simpleicons.org/)
+- [Octicons](https://primer.style/octicons/)
+
+[*This wundefull photo*](https://subversive-eu.github.io/awesome-hugo-book/media/winter-photo.webp)
 
 
 
@@ -161,10 +290,10 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
 
 going to deploy using netlify. (did)
 
-<https://awesome-hugo-book.netlify.app>
+
 
 PS: [hugo release v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0).
 
 PS2: need a better readme.md to share project.
 
-PS3: starte in french going to english ?
+PS3: start in french going to english ?
