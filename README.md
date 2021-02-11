@@ -397,7 +397,7 @@ En gros les deux derniers points sont trés important, je ne connais pas le voca
 
 **Procédure 3**
 
-Celle publique et pointilleuse.
+Celles publiques et pointilleuses.
 
 - [Public OPQuast](https://checklists.opquast.com/fr/)
 - [Web-Quality-Assurance](https://checklists.opquast.com/en/web-quality-assurance/)
