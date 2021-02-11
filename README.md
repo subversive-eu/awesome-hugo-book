@@ -271,6 +271,29 @@ Tout ce qui ne rentre pas dans les autres catégories.
 
 [*Cette merveilleuse photo*](https://subversive-eu.github.io/awesome-hugo-book/media/winter-photo.webp)
 
+*Vrac*
+
+- [Editeur de contenu github a distance](https://prose.io/)
+- [Page de status microservices](https://github.com/valeriansaliou/vigil)
+- [Supabase | Firebase Alternative](https://supabase.io/)
+- [Editorial revue](https://www.getrevue.co/)
+- [Mail List](https://substack.com/)
+
+*Data Service*
+
+- [DataStudio by google](https://datastudio.google.com/overview)
+
+*Outils offrant une vue d'ensemble:*
+
+- [technicalseo.com](https://technicalseo.com/tools/)
+- [nibbler](https://nibbler.silktide.com/)
+- [seotesteronline](https://www.seotesteronline.com/)
+- [outiref](https://www.outiref.fr/)
+- [https://alyze.com/](https://alyze.com/)
+- [webpagetest](https://www.webpagetest.org/)  
+- [Google text-enrichis tools tester](https://search.google.com/test/rich-results)
+
+
 
 
 ---
