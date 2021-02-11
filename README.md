@@ -201,16 +201,15 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
   - [Données structurées Listes](https://developers.google.com/search/docs/guides/search-gallery)
   - [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
   - [JSON-LD données](https://github.com/JayHoltslander/Structured-Data-JSON-LD)
-- [Twitter_Cards]
+- [Twitter_Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
 
 **[Meilleur Outil !](http://debug.iframely.com/)**
 
 - [Templates que j'utilise](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
 - [Les déployer depuis le partial head (dernières lignes)](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
-PS: Ne pas oublier dans config.yml :
+PS: Ne pas oublier dans config.yml params:
 ```
-params:
-  env: production
+env: production
 ```
 
 *RSS*
@@ -245,9 +244,9 @@ params:
 
 *Commentaires*
 
-- [Isso | Disqus alternative](https://posativ.org/isso/)
+- [Isso / Disqus alternative](https://posativ.org/isso/)
 - [Visual Captcha](https://visualcaptcha.net/)
-- [Invisible-recaptcha-validator | self-hosted](https://github.com/andrewrmn/invisible-recaptcha-validator)
+- [Invisible-recaptcha-validator / self-hosted](https://github.com/andrewrmn/invisible-recaptcha-validator)
 - [Staticman!](https://staticman.net/)
 - [Staticman tuto fr 2021](https://subversive.eu/articles/ecrire-des-commentaires-sur-un-site-statique-hugo-avec-staticman-et-heroku.html)
 
@@ -300,6 +299,7 @@ alt="description de l'image
 - [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
 - [HTML Ressources](https://htmlhead.dev/)
 - [Tuto hugo tags](https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/)
+- [Head d'un de mes sites](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
 
 ### Ressources
 
@@ -349,7 +349,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 
 - [Editeur de contenu github a distance](https://prose.io/)
 - [Page de status microservices](https://github.com/valeriansaliou/vigil)
-- [Supabase | Firebase Alternative](https://supabase.io/)
+- [Supabase / Firebase Alternative](https://supabase.io/)
 - [Editorial revue](https://www.getrevue.co/)
 - [Mail List](https://substack.com/)
 
