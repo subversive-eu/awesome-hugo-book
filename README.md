@@ -78,7 +78,7 @@ Google For Dev #
 
 - [Dev](https://developers.googleblog.com/)
 - [Webmaster [FR]](https://webmaster-fr.googleblog.com/)
-- [Webmaster[(https://webmasters.googleblog.com/)
+- [Webmaster](https://webmasters.googleblog.com/)
 
 De plus il vous faudra une base de ressources displonibles pour gagner du temps dans votre travail.
 
@@ -151,7 +151,19 @@ Evitez la redirection.
 
 Appréciez le protocole www.votredomaine.com.
 
-gethyas.com
+Dans le dossier `static` de votre hugo site, ajoutez le fichier `_headers` :
+Insérez si **__CE QUE VOUS COMPRENEZ SEULEMENT ET UNIQUEMENT CE QUE VOUS COMPRENEZ__**.
+Si vous ne comprenez rien, ne mettez rien. (Uniquement disponible avec netlify)
+
+```
+/*
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  X-Frame-Options: DENY
+  Referrer-Policy: no-referrer
+  Cache-Control: no-store
+  X-DNS-Prefetch-Control: off
+```
 
 *Outils*
 
