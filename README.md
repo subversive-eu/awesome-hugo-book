@@ -25,11 +25,16 @@
 
 - [Performance](#performance)
 - [Architecture](#architecture)
+- [Sécurité](#sécurité)
+- [Contenu](#contenu)
+-- [SEO](#seo)
+-- [RSS](#rss)
 
-#### Performance
+
+### Performance
 
 - Préférez les petites images en taille (donc conservez la qualité)
-- Compressez vos images jpg ou jpeg
+- Compressez vos images jpg ou jpeg vers les formats -> JPEG 2000, JPEG XR ou WEBP
 - Conserver uniquement le script js que vous utilisez
 - Minifiez votre JS
 - Conserver uniquement le css que vous utilisez
@@ -38,7 +43,6 @@
 - Ayez un site adapté a toutes les plateformes
 - Evitez les redirections
 - Détestez les icônes
-- Utilisez les format JPEG 2000, JPEG XR ou WEBPour vos images
 
 ##### Tools
 
@@ -59,13 +63,13 @@
 - [Webp convertor](https://webp-converter.com/)
 - [Squoosh compressor](https://squoosh.app/)
 
-#### Architecture
+### Architecture
 
 L’architecture de votre site doit être simple. L’ensemble de votre site doit être interconnecté.
 
 Pour un utilisateur cela peut-être compliqué mais un robot lui a une certaine aisance, c’est un paradoxe. Mais ce sont les robots qui permettent de vos retrouver en haut de la page.
 
-- Une page une utilité
+- Une page une utilité.
 - De chaque page, je peux aller ou je veux sur le site.
 - De chaque page, j’ai un contenu facile a lire avec une page performante, des meta données complètes et un contenu unique.
 
@@ -81,11 +85,66 @@ Demandez vous ce qu’aime les gens, ce que viennent chercher les gens sur votre
 - [Logiciel architecture des liens](https://www.screamingfrog.co.uk/seo-spider/)
 - [SiteMap validator](https://www.xml-sitemaps.com/validate-xml-sitemap.html)
 
+### Sécurité
+
+La sécurité reste un point à ne pas négligler.
+Un site peu fiable, avec des rapports des utilisateurs ne sera pas recommandable et les robots en tiendront compte.
+
+En général le protocole https suffit.
+
+Evitez la redirection.
+
+Appréciez le protocole www.votredomaine.com.
+
+gethyas.com
+
+##### Tools
+
+- [Webpagetest](https://www.webpagetest.org/)
+- [Mozilla Observatoire](https://observatory.mozilla.org/)
+
+### Contenu
+
+Le contenu de votre site est le plus important !
+
+Il doit être unique et simple mais complexe.
+
+Le robot aime les nouveaux sites, avec beaucoup de liens, mais n’apprécie pas les liens cassés.
+
+Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous de suivre.
+
+- Titre : 60 caractères
+- Description: 155-160 caractères
+- Mots clés: titre + description + tags/categories/etiquettes + h2 + h3
+- Citez vos sources
+- Utiliser des liens externes
+- Utiliser des liens internes -> croiser vos pages
+- 3 articles minimum par catégories
+- Ratio minimum 1:2 ratio entre catégorie
+- Eviter les lire ici, cliquez ici
+- Evitez les liens photos ou ensemble.
+- Préférez du texte qui décrit le lien, simple mais efficace
+- Votre contenu doit être **unique**
+
+#### SEO
+
+- [Plus d’info à propos de Schema](https://schema.org/)
+- [Données structurées Listes](https://developers.google.com/search/docs/guides/search-gallery)
+- [JSON-LD données](https://github.com/JayHoltslander/Structured-Data-JSON-LD)
+- [OpenGraph Protocol](https://ogp.me/)
+- [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
+- [Debug by Iframely](http://debug.iframely.com/)
+
+#### RSS
+
+- [W3 validator](https://validator.w3.org/feed/)
+- [Podba](https://podba.se/validate/)
 
 
+
+
+---
 # draft :
-
-
 ## English
 
 ### Goal
