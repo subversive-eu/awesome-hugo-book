@@ -133,6 +133,8 @@ minify:
 - [Vitesse de la page](https://tools.pingdom.com/)
 - [Minifier votre css](http://minifycode.com/)
 - [Test Page Speed](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
+- [Minifier et nettoyer CSS JS HTML ..](https://www.10bestdesign.com/dirtymarkup/)
+- [Website Speed](https://tools.pingdom.com/)
 - [Le Meilleur outil !](https://web.dev/measure/)
 
 *Design réactif*
@@ -258,6 +260,7 @@ env: production
 - [Convertisseur](https://convertio.co/)
 - [Image Magick](https://imagemagick.org/index.php)
 - [Free Photos](https://unsplash.com/)
+- [Verificateur de lien](https://validator.w3.org/checklink)
 
 *Rédaction*
 
