@@ -8,18 +8,21 @@
   <kbd><img src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
 
-### Objectif
+### Objectif et besoin
 
 - Offrir une liste d'outils pour les administrateurs et développeurs de site internet statique ou non, utilisant hugo ou non.
 
 - Rendre plus simple l'utilisation et le développement de site sous hugo.
 
-### Historique
+- Version 1 : <https://subversive-eu.github.io/book-seo/>
 
-- Version 1 <https://subversive-eu.github.io/book-seo/>
+- Juste une page avec des favoris disponible partout facile à interpréter.
+
+- [Hugo version v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0)
 
 
 
+# draft :
 
 - English
 
