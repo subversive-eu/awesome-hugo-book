@@ -5,18 +5,8 @@
 - [Français](#objectif-et-besoin) (en construction)
 - [Anglais](#english) (french before)
 
-<p align="center" style="  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;">
-  <kbd><img style="
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-  object-position: center;
-" src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
+<p align="center">
+  <kbd><img src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
 
 ### Objectif et Besoin
@@ -27,7 +17,7 @@
 
 - Version 1 : <https://subversive-eu.github.io/book-seo/>
 
-- Juste une page avec des favoris disponible partout facile à interpréter.
+- Juste une page avec des favoris disponibles partout facile à interpréter.
 
 - [Hugo version v80](https://github.com/gohugoio/hugo/releases/tag/v0.80.0)
 
@@ -56,20 +46,20 @@ Table des matières |
 - Evitez les redirections
 - Détestez les icônes
 
-##### Outils
+ *Outils*
 
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Vitesse de la page](https://tools.pingdom.com/)
 - [Minifier votre css](http://minifycode.com/)
 - [Test Page Speed](https://www.internetmarketingninjas.com/tools/free-tools/pagespeed)
 
-##### Design réactif
+*Design réactif*
 
 - [affiche le site en responsive multi plateforme](https://www.responsinator.com/)
 - [Google Mobile friendly ?](https://search.google.com/test/mobile-friendly?)
 - [Responsive-Test](https://0xfederico.github.io/test-responsive-website/)
 
-#####  Image
+*Image*
 
 - [Compress Img](https://compressjpeg.com/)
 - [Webp convertor](https://webp-converter.com/)
@@ -90,7 +80,7 @@ Demandez vous ce qu’aime les gens, ce que viennent chercher les gens sur votre
 - Un rendu en recherche impeccable cf schema.org
 - Le sitemap est très important, il est l’index du robot, il regroupe toutes les pages.
 
-##### Outils
+*Outils*
 
 - [Analyse l’architecture pour une page](https://www.siteliner.com/)
 - [Analyse Générale de l’architecture du site](https://neilpatel.com/)
@@ -111,7 +101,7 @@ Appréciez le protocole www.votredomaine.com.
 
 gethyas.com
 
-##### Outils
+*Outils*
 
 - [Webpagetest](https://www.webpagetest.org/)
 - [Mozilla Observatoire](https://observatory.mozilla.org/)
