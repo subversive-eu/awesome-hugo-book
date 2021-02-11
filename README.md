@@ -5,7 +5,7 @@
 - Français
 
 <p align="center">
-  <kbd><img src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
+  <kbd><img src="https://github.com/subversive-eu/awesome-hugo-book/blob/master/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
 
 ### Goal
