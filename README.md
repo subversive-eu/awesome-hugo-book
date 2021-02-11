@@ -1,12 +1,27 @@
-# Hey
+# Hey!
 
 ## My Awesome Hugo Book
 
 - Français
 
 <p align="center">
-  <kbd><img src="https://github.com/subversive-eu/awesome-hugo-book/blob/master/media/merakist-min.jpg" alt="Web SEO" /></kbd>
+  <kbd><img src="https://subversive-eu.github.io/awesome-hugo-book/media/merakist-min.jpg" alt="Web SEO" /></kbd>
 </p>
+
+### Objectif
+
+- Offrir une liste d'outils pour les administrateurs et développeurs de site internet statique ou non, utilisant hugo ou non.
+
+- Rendre plus simple l'utilisation et le développement de site sous hugo.
+
+### Historique
+
+- Version 1 <https://subversive-eu.github.io/book-seo/>
+
+
+
+
+- English
 
 ### Goal
 
