@@ -248,6 +248,8 @@ env: production
 
 *RSS*
 
+- [RSS 2.0 Documentation](https://validator.w3.org/feed/docs/rss2.html)
+- [ATOM Documentation](https://tools.ietf.org/html/rfc4287)
 - [W3 validator](https://validator.w3.org/feed/)
 - [Podba](https://podba.se/validate/)
 
@@ -325,23 +327,25 @@ Très important pour le handicap, considérez que le robot est un handicapé qui
 ```
 - alt pour une image ex:
 ```
-alt="description de l'image
+alt="description de l'image"
 ```
 - alt pour une vidéo
 
-Pagination bouton ou liens ajoutez :
+- rel pour une pagination
 ```
  rel="next"
  OU
  rel="prev"
  ```
+ 
 *Outils*
 
 - [HTML / XHTML / XML Validator](https://validator.w3.org/)
 - [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
 - [HTML Ressources](https://htmlhead.dev/)
 - [Tuto hugo tags](https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/)
-- [Head d'un de mes sites](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
+- [Exemple Head](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
+- [HTML Documentation](https://html.spec.whatwg.org/multipage/)
 
 ### Ressources
 
