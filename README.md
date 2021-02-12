@@ -359,6 +359,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [awesome-static-generators](https://github.com/phamap/awesome-static-generators)
 - [awesome-hugo](https://www.awesome-hugo.dev/)
 - [Larges listes d'outils gratuit](https://www.internetmarketingninjas.com/tools/free-tools/category/free-seo-tools)
+- [W3C Outils](https://w3c.github.io/developers/tools/)
 
 *Thème pour documentation*
 - [Docsy](https://docsy.dev)
