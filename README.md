@@ -236,9 +236,7 @@ Il aime également le contenu frais. Aujourd’hui le monde va plus vite, a vous
   - [structured-data/testing-tool](https://search.google.com/structured-data/testing-tool)
   - [JSON-LD données](https://github.com/JayHoltslander/Structured-Data-JSON-LD)
 - [Twitter_Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-
-**[Meilleur Outil !](http://debug.iframely.com/)**
-
+- **[Meilleur Outil !](http://debug.iframely.com/)**
 - [Templates que j'utilise](https://github.com/subversive-eu/site/tree/master/themes/PaperMod/layouts/partials/templates)
 - [Les déployer depuis le partial head (dernières lignes)](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
 PS: Ne pas oublier dans config.yml params:
