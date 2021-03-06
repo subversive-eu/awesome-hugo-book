@@ -136,8 +136,10 @@ Pour un utilisateur cela peut-être compliqué mais un robot lui a une certaine 
 
 Demandez vous ce qu’aime les gens, ce que viennent chercher les gens sur votre site. Vos pages doivent y répondre.
 
-- Un rendu en recherche impeccable cf schema.org
+- Un rendu en recherche impeccable cf schema.org.
 - Le sitemap est très important, il est l’index du robot, il regroupe toutes les pages.
+- [sitemap.xml dans le dossier layouts](https://github.com/subversive-eu/site/blob/master/layouts/sitemap.xml).
+
 
 *Outils*
 
