@@ -84,42 +84,20 @@ Le plus important est d’avoir un objectif quantifiable et mesurable, le reste 
 - Préférez les petites images en taille (donc conservez la qualité)
 - Compressez vos images jpg ou jpeg vers les formats -> JPEG 2000, JPEG XR ou WEBP
 - Conserver uniquement le script js que vous utilisez
-- Minifiez votre JS
+- [Minifiez votre JS](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/footer.html)
 - Conserver uniquement le css que vous utilisez
-- Minifiez votre CSS
+- [Minifiez votre CSS](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
 - Minifiez votre html
 - Ayez un site adapté a toutes les plateformes
 - Evitez les redirections
 - Détestez les icônes
 
 ```
-<!-- 1 fichier script.js minifié -->
-{{ $js := resources.Get "js/script.js" }}
-{{ $JS := $js | resources.Minify }}
-<script src="{{ $JS.Permalink }}"></script>
-
-<!-- x Styles minifiés + intégrité + excés!!!-->
-{{- $anoldhope := resources.Get "css/an-old-hope.css" }}
-{{- $theme := resources.Get "css/theme-vars.css" }}
-{{- $reset := resources.Get "css/reset.css" }}
-{{- $header := resources.Get "css/header.css" }}
-{{- $main := resources.Get "css/main.css" }}
-{{- $postentry := resources.Get "css/post-entry.css" }}
-{{- $postsingle := resources.Get "css/post-single.css" }}
-{{- $terms := resources.Get "css/terms.css" }}
-{{- $archive := resources.Get "css/archive.css" }}
-{{- $footer := resources.Get "css/footer.css" }}
-{{- $404 := resources.Get "css/404.css" }}
-{{- $style := slice $anoldhope $theme $reset $header $main $postentry $postsingle $terms $archive $footer $404 | resources.Concat "secureCSS.css" }}
-{{- $secureCSS := slice $style | resources.Concat "assets/css/secureCSS.css" | minify | fingerprint -}}
-<link href="{{ $secureCSS.Permalink }}"  rel="preload stylesheet"
-    as="style" integrity="{{ $secureCSS.Data.Integrity }}">
-    
-<!-- Minifier votre HTML -> Dans le fichier config.yml ajouter: -->
+Minifier votre HTML -> Dans le fichier config.yml ajouter :
 minify:
  minifyOutput: true
-<!-- Pour observer le résultat -> clic droit sur une page de votre site (local ou non) afficher le code source -->
-
+ 
+Pour observer le résultat -> clic droit sur une page de votre site (local ou non) afficher le code source.
 ```
 
  *Outils*
