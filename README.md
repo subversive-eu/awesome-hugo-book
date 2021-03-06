@@ -216,6 +216,7 @@ PS: Ne pas oublier dans config.yml params:
 ```
 env: production
 ```
+- [Robots.txt](https://github.com/subversive-eu/site/blob/master/static/robots.txt)
 
 *RSS*
 
