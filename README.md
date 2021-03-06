@@ -21,8 +21,6 @@
 
 - Rendre plus simple l'utilisation et le développement de site sous hugo.
 
-- Version 1 : <https://subversive-eu.github.io/book-seo/>
-
 - Juste une page avec des favoris disponibles partout facile à interpréter.
 
 
@@ -63,8 +61,6 @@ Identifiez votre page canonique et les autres pages.
 
 Assurer vous que googlebot a accés aux ressources.
 
-[ Un article sur le fonctionnement de la recherche]().
-
 **La base du SEO**
 
 Google regarde la perfomance de votre site, il observe vos metas données ainsi que votre contenu.
@@ -73,8 +69,7 @@ Votre Architecture se doit d’être simple est logique. Vous n’oublierez pas 
 
 **Garder le cap**
 
-Google mais à jour régulièrement ses consignes aux developpers, vous vous devrez de ne rien louper en lisant ces blogs :
-Google For Dev #
+Google met à jour régulièrement ses consignes aux developpers, vous vous devrez de ne rien louper en lisant ces blogs :
 
 - [Dev](https://developers.googleblog.com/)
 - [Webmaster [FR]](https://webmaster-fr.googleblog.com/)
@@ -185,8 +180,8 @@ Evitez la redirection.
 
 Appréciez le protocole www.votredomaine.com.
 
-Dans le dossier `static` de votre hugo site, ajoutez le fichier `_headers` :
-Insérez si **__CE QUE VOUS COMPRENEZ SEULEMENT ET UNIQUEMENT CE QUE VOUS COMPRENEZ__**.
+Dans le dossier `static` de votre site hugo, ajoutez le fichier `_headers` :  
+Insérez si **CE QUE VOUS COMPRENEZ SEULEMENT ET UNIQUEMENT CE QUE VOUS COMPRENEZ**.  
 Si vous ne comprenez rien, ne mettez rien. (Uniquement disponible avec netlify)
 
 ```
@@ -303,7 +298,7 @@ La personne ou le robot qui lit votre url doit comprendre ce dont la page parle.
 - Acceptez robots.txt noindex
 - Titre
 - Une hreflang
-- keywords /peu utile/
+- keywords (peu utile)
 - RSS
 - Canonical
 - Description
@@ -328,7 +323,9 @@ Très important pour le handicap, considérez que le robot est un handicapé qui
 alt="description de l'image"
 ```
 - alt pour une vidéo
-
+```
+alt="description de la vidéo"
+```
 - rel pour une pagination
 ```
  rel="next"
@@ -409,7 +406,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [nibbler](https://nibbler.silktide.com/)
 - [seotesteronline](https://www.seotesteronline.com/)
 - [outiref](https://www.outiref.fr/)
-- [https://alyze.com/](https://alyze.com/)
+- [alyze](https://alyze.com/)
 - [webpagetest](https://www.webpagetest.org/)  
 - [Google text-enrichis tools tester](https://search.google.com/test/rich-results)
 
@@ -428,16 +425,16 @@ A cela, vous ne devrez pas oublier l’architecture de votre site !
 Celle de Google.
 
 - Le site est-il visible sur internet ? site:example.com
-- Votre contenu est unique ?
-- Votre commerce est visible sur google.com/business
-- Votre site s’adapte au mobile ? <g.co/friendly>
-- La connexion a votre site est sécurisée ? https ?
+- Votre contenu est-il unique ?
+- Votre commerce est-il visible sur google.com/business
+- Votre site s’adapte-t-il aux mobiles ? <g.co/friendly>
+- La connexion a votre site est-elle sécurisée ? https ?
 
 Avant de passer à la suite, vous devez intégrer celle-ci entièrement.
 
 **Procédure 2**
 
-Cette vérification se divise et deux sous-procédures. La 2.1 vous correspondra le plus.
+Cette vérification se divise en deux sous-procédures. La 2.1 vous correspondra le plus.
 
 *Procédure 2.1*
 
@@ -472,13 +469,9 @@ Celles publiques et pointilleuses.
 - [Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 - [Scan tout le site](https://webhint.io/scanner/)
 
-
-
-
-
 ---
-# draft :
-## English
+
+## English (draft)
 
 ### Goal
 
