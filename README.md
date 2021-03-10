@@ -376,6 +376,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Supabase / Firebase Alternative](https://supabase.io/)
 - [Editorial revue](https://www.getrevue.co/)
 - [Mail List](https://substack.com/)
+- [mydevice](https://www.mydevice.io/)
 
 *Data Service*
 
