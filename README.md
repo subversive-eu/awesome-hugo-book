@@ -342,6 +342,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [awesome-hugo](https://www.awesome-hugo.dev/)
 - [Larges listes d'outils gratuit](https://www.internetmarketingninjas.com/tools/free-tools/category/free-seo-tools)
 - [W3C Outils](https://w3c.github.io/developers/tools/)
+- [Make Perfect Readme](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 
 *Thème pour documentation*
 - [Docsy](https://docsy.dev)
