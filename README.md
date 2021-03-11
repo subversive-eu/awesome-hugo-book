@@ -239,6 +239,7 @@ env: production
 - [Free Photos](https://unsplash.com/)
 - [Verificateur de lien](https://validator.w3.org/checklink)
 - [Google Analytics check](http://www.gachecker.com/)
+- [SimpleSharingButtons](https://github.com/fourtonfish/SimpleSharingButtons)
 
 *Rédaction*
 
@@ -261,6 +262,11 @@ env: production
 - [Invisible-recaptcha-validator / self-hosted](https://github.com/andrewrmn/invisible-recaptcha-validator)
 - [Staticman!](https://staticman.net/)
 - [Staticman tuto fr 2021](https://subversive.eu/articles/ecrire-des-commentaires-sur-un-site-statique-hugo-avec-staticman-et-heroku.html)
+
+*Confort des visiteurs*
+
+- [Couleurs et Couleurs de fond](http://foutchy.com/articles/article00006.asp)
+- [tota11y](https://github.com/Khan/tota11y)
 
 ### Meta Data
 
