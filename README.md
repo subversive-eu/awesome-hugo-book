@@ -358,6 +358,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Google-Fonts-Awesome](https://google-webfonts-helper.herokuapp.com/fonts)
 - [EditorJs ](https://editorjs.io/)
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle)
+- [Scrollbar_css](https://github.com/cntrump/scrollbar_css)
 
 *Icones*
 
