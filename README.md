@@ -390,6 +390,12 @@ Tout ce qui ne rentre pas dans les autres catégories.
 
 - [DataStudio by google](https://datastudio.google.com/overview)
 
+*Outils sur chrome web store*
+
+- [Viewport Resizer – Responsive Testing Tool](https://chrome.google.com/webstore/detail/viewport-resizer-%E2%80%93-respon/kapnjjcfcncngkadhpmijlkblpibdcgm)
+- [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj)
+- [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
+
 *Outils offrant une vue d'ensemble:*
 
 - [technicalseo.com](https://technicalseo.com/tools/)
