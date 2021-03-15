@@ -32,6 +32,7 @@ Table des matières |
 [Sécurité](#sécurité) |
 [Contenu](#contenu) |
 [Meta Data](#meta-data) |
+[Accessibilité](#Accessibilité) |
 [Ressources](#ressources) |
 [Audit](#audit) |
 
@@ -110,6 +111,7 @@ Pour observer le résultat -> clic droit sur une page de votre site (local ou no
 - [Website Speed](https://tools.pingdom.com/)
 - [GTMetrix, (la même chose que la lighthouse mais en plus sévère)](https://gtmetrix.com/)
 - [Le Meilleur outil !](https://web.dev/measure/)
+- [Clean-Css](https://github.com/jakubpawlowicz/clean-css)
 
 *Design réactif*
 
@@ -263,11 +265,6 @@ env: production
 - [Staticman!](https://staticman.net/)
 - [Staticman tuto fr 2021](https://subversive.eu/articles/ecrire-des-commentaires-sur-un-site-statique-hugo-avec-staticman-et-heroku.html)
 
-*Confort des visiteurs*
-
-- [Couleurs et Couleurs de fond](http://foutchy.com/articles/article00006.asp)
-- [tota11y](https://github.com/Khan/tota11y)
-
 ### Meta Data
 
 Le balisage meta reste important tant qu’il est pratique et qu’il réponds à la demande des bots.
@@ -329,6 +326,17 @@ alt="description de la vidéo"
 - [Exemple Head](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
 - [HTML Documentation](https://html.spec.whatwg.org/multipage/)
 
+### Accessibilité
+
+- [Colors](https://clrs.cc/)
+- [Randoma11y - Générateur de contraste aléatoire](https://randoma11y.com/)
+- [Couleurs et Couleurs de fond](http://foutchy.com/articles/article00006.asp)
+- [tota11y](https://github.com/Khan/tota11y)
+- [Tools from We have web accessibility in mind](https://webaim.org/resources/)
+- [Wawe from webaim](https://wave.webaim.org/)
+- [contrast Ratio](https://contrast-ratio.com/)
+
+
 ### Ressources
 
 Tout ce qui ne rentre pas dans les autres catégories.
@@ -345,7 +353,22 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Make Perfect Readme](https://medium.com/swlh/how-to-make-the-perfect-readme-md-on-github-92ed5771c061)
 - [Simple Favicon Generator](https://freelogomake.com/favicon.html)
 
-*Thème pour documentation*
+*Outils Officiels Hugo*
+
+- [Developer Tools](https://gohugo.io/tools/)
+- [Outils pour Editeurs](https://gohugo.io/tools/editors/)
+
+*Outils Educatif*
+
+- [Hugo Mini Course [EN]](https://hugo-mini-course.netlify.app/)
+- [Go Hugo Hq [EN]](https://gohugohq.com/)
+
+*Editeur de contenu*
+- [Sublime Text](https://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+
+*Thèmes pour documentation*
+
 - [Docsy](https://docsy.dev)
 - [Docuapi](https://docuapi.netlify.app)
 - [Learn](https://learn.netlify.app)
@@ -353,6 +376,12 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Zdoc](https://zzo-docs.vercel.app/)
 - [Compose](https://docs.neuralvibes.com/)
 
+*Thèmes pour cv*
+
+- [Resume A4](https://gitlab.com/mertbakir/resume-a4)
+- [Simple Resume](https://github.com/tylerjlawson/simple-resume)
+- [Editeur de contenu github a distance](https://prose.io/)
+- 
 *Design kit*
 
 - [Material Design](https://material.io/)
@@ -367,6 +396,9 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [EditorJs ](https://editorjs.io/)
 - [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle)
 - [Scrollbar_css](https://github.com/cntrump/scrollbar_css)
+- [Include Media](https://github.com/eduardoboucas/include-media)
+- [Materialize](https://materializecss.com/)
+- [Tachyons](https://tachyons.io/)
 
 *Icones*
 
@@ -380,7 +412,6 @@ Tout ce qui ne rentre pas dans les autres catégories.
 
 *Vrac*
 
-- [Editeur de contenu github a distance](https://prose.io/)
 - [Page de status microservices](https://github.com/valeriansaliou/vigil)
 - [Supabase / Firebase Alternative](https://supabase.io/)
 - [Editorial revue](https://www.getrevue.co/)
@@ -397,7 +428,7 @@ Tout ce qui ne rentre pas dans les autres catégories.
 - [Dimensions](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj)
 - [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb)
 
-*Outils offrant une vue d'ensemble:*
+*Outils offrant une vue d'ensemble pour Audit*
 
 - [technicalseo.com](https://technicalseo.com/tools/)
 - [nibbler](https://nibbler.silktide.com/)
