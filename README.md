@@ -32,7 +32,7 @@ Table des matières |
 [Sécurité](#sécurité) |
 [Contenu](#contenu) |
 [Meta Data](#meta-data) |
-[Accessibilité](#Accessibilité) |
+[Accessibilité](#accessibilité) |
 [Ressources](#ressources) |
 [Audit](#audit) |
 
