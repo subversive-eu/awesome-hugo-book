@@ -290,6 +290,25 @@ La personne ou le robot qui lit votre url doit comprendre ce dont la page parle.
 - Vos ressources
 - Votre URL
 
+*Outils*
+
+- [HTML / XHTML / XML Validator](https://validator.w3.org/)
+- [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
+- [HTML Ressources](https://htmlhead.dev/)
+- [Tuto hugo tags](https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/)
+- [Exemple Head](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
+- [HTML Documentation](https://html.spec.whatwg.org/multipage/)
+
+### Accessibilité
+
+- [Colors](https://clrs.cc/)
+- [Randoma11y - Générateur de contraste aléatoire](https://randoma11y.com/)
+- [Couleurs et Couleurs de fond](http://foutchy.com/articles/article00006.asp)
+- [tota11y](https://github.com/Khan/tota11y)
+- [Tools from We have web accessibility in mind](https://webaim.org/resources/)
+- [Wawe from webaim](https://wave.webaim.org/)
+- [contrast Ratio](https://contrast-ratio.com/)
+
 *Attributs*
 
 Très important pour le handicap, considérez que le robot est un handicapé qui ne voit pas mais se faire le contenu de la page. Pour une personne handicapée c’est pareil, elle a un robot qui lui lit les attributs, ce qui lui permet d’évoluer n’importe où, à condition que votre site en ait.
@@ -316,26 +335,6 @@ alt="description de la vidéo"
  OU
  rel="prev"
  ```
- 
-*Outils*
-
-- [HTML / XHTML / XML Validator](https://validator.w3.org/)
-- [Google test robots.txt](https://support.google.com/webmasters/answer/6062598)
-- [HTML Ressources](https://htmlhead.dev/)
-- [Tuto hugo tags](https://www.skcript.com/svr/perfect-seo-meta-tags-with-hugo/)
-- [Exemple Head](https://github.com/subversive-eu/site/blob/master/themes/PaperMod/layouts/partials/head.html)
-- [HTML Documentation](https://html.spec.whatwg.org/multipage/)
-
-### Accessibilité
-
-- [Colors](https://clrs.cc/)
-- [Randoma11y - Générateur de contraste aléatoire](https://randoma11y.com/)
-- [Couleurs et Couleurs de fond](http://foutchy.com/articles/article00006.asp)
-- [tota11y](https://github.com/Khan/tota11y)
-- [Tools from We have web accessibility in mind](https://webaim.org/resources/)
-- [Wawe from webaim](https://wave.webaim.org/)
-- [contrast Ratio](https://contrast-ratio.com/)
-
 
 ### Ressources
 
