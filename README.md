@@ -222,6 +222,8 @@ env: production
 ```
 - [Robots.txt](https://github.com/subversive-eu/site/blob/master/static/robots.txt)
 
+Ne pas utiliser ```<noscript>```, cela nuît au référencement.
+
 *RSS*
 
 - [RSS 2.0 Documentation](https://validator.w3.org/feed/docs/rss2.html)
